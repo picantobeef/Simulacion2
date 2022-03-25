@@ -22,7 +22,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- *
+ *.
  * @author scont
  */
 public class InterfazGrafica extends javax.swing.JFrame {
